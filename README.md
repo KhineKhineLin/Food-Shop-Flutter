@@ -1,4 +1,4 @@
-# food
+# Food Shop App Flutter
 
 A new Flutter project.
 
